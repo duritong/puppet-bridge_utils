@@ -1,5 +1,5 @@
 #
-# bridge-utils module
+# bridge_utils module
 #
 # Copyright 2010, Project immerda
 # Andreas andreas(at)immerda.ch
@@ -10,6 +10,6 @@
 # the Free Software Foundation.
 #
 
-class bridge-utils {
+class bridge_utils {
   include bridge-utils::base
 }
