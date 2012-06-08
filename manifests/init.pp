@@ -11,5 +11,5 @@
 #
 
 class bridge_utils {
-  include bridge-utils::base
+  include bridge_utils::base
 }
